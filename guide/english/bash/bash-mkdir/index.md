@@ -20,3 +20,4 @@ Let's say we need to create a directory `dir` in the path `a/b/c/dir`, but direc
 
 ### More Information:
 * [Wikipedia - Mkdir](https://en.wikipedia.org/wiki/Mkdir)
+* run `man mkdir` in terminal to get a list of all options for this command.
