@@ -36,3 +36,4 @@ cat file1.txt file2.txt
 
 #### More Information:
 * Wikipedia: https://en.wikipedia.org/wiki/Cat_(Unix)
+* run `man cat` in terminal to get a list of all options for this command.
