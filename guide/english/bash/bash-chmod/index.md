@@ -9,3 +9,4 @@ title: Bash chmod
 
 ### More Information:
 * [Wikipedia](https://en.wikipedia.org/wiki/Chmod)
+* run `man chmod` in terminal to get a list of all options for this command.
