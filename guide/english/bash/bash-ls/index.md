@@ -40,3 +40,4 @@ assets             gatsby-ssr.js      translations
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Ls)
 * [Shapeshed](https://shapeshed.com/unix-ls/)
+* run `man ls` in terminal to get a list of all options for this command.
