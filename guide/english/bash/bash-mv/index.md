@@ -19,3 +19,4 @@ Commonly used options:
 
 ### More Information:
 * [Wikipedia](https://en.wikipedia.org/wiki/Mv)
+* run `man mv` in terminal to get a list of all options for this command.
